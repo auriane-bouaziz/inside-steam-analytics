@@ -246,5 +246,7 @@ inside-steam-analytics/
 
 ## Key Takeaway
 Steam games do not follow a single path to market performance.
+
 Different product-positioning profiles show substantially different reach patterns, while satisfaction follows a different dynamic.
+
 Combining market analysis, segmentation and predictive modelling provides a more useful framework for understanding where a game sits in the market and how comparable positioning strategies tend to perform.
