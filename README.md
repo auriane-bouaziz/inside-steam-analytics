@@ -234,15 +234,17 @@ inside-steam-analytics/
 │
 └── README.md
 
+```
 
-Limitations
+## Limitations
 - Estimated owner figures are provided as ranges rather than exact sales data.
 - Review and engagement coverage varies across games.
 - The dataset is a historical snapshot ending in March 2025.
 - Feature importance should not be interpreted as causal impact.
 - The predictive model provides exploratory decision support rather than a reliable forecast of commercial success.
 
-Key Takeaway
+
+## Key Takeaway
 Steam games do not follow a single path to market performance.
 Different product-positioning profiles show substantially different reach patterns, while satisfaction follows a different dynamic.
 Combining market analysis, segmentation and predictive modelling provides a more useful framework for understanding where a game sits in the market and how comparable positioning strategies tend to perform.
