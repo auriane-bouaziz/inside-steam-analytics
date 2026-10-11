@@ -6,7 +6,7 @@ Market and product analytics on **94,948 Steam games**, combining Python, Postgr
 
 Explore the full interactive dashboard on **Tableau Public**:
 
-[View the Inside Steam Dashboard on Tableau Public]([https://public.tableau.com/views/Inside_Steam_Dashboardcopie/01MarketOverview?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Inside_Steam_Dashboardcopie/01MarketOverview?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View the interactive Tableau dashboard](https://public.tableau.com/views/Inside_Steam_Dashboardcopie/01MarketOverview?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Market Overview
 
