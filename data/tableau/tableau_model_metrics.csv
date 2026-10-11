@@ -1,0 +1,3 @@
+model,precision_high_reach,recall_high_reach,f1_high_reach,roc_auc,average_precision
+Logistic Regression,0.158,0.641,0.254,0.687,0.189
+Random Forest,0.201,0.586,0.299,0.71,0.239
