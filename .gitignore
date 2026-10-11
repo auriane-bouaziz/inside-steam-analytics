@@ -222,3 +222,5 @@ data/raw/
 .DS_Store
 
 data/processed/
+.DS_Store
+.~*.twbr
